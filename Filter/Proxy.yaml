@@ -15,11 +15,11 @@ payload:
   - IP-CIDR,147.92.128.0/17,Proxy
   - IP-CIDR,203.104.144.0/21,Proxy
   # > Other
-  - DOMAIN-SUFFIX,v2ex.com,Proxy
   - DOMAIN-SUFFIX,4shared.com,Proxy
   - DOMAIN-SUFFIX,520cc.cc,Proxy
   - DOMAIN-SUFFIX,881903.com,Proxy
   - DOMAIN-SUFFIX,9cache.com,Proxy
+  - DOMAIN-SUFFIX,91porn.com,Proxy
   - DOMAIN-SUFFIX,9gag.com,Proxy
   - DOMAIN-SUFFIX,abc.com,Proxy
   - DOMAIN-SUFFIX,abc.net.au,Proxy
@@ -156,6 +156,7 @@ payload:
   - DOMAIN-SUFFIX,jiji.com,Proxy
   - DOMAIN-SUFFIX,jinx.com,Proxy
   - DOMAIN-SUFFIX,jkforum.net,Proxy
+  - DOMAIN-SUFFIX,jabel.tv,Proxy
   - DOMAIN-SUFFIX,joinmastodon.org,Proxy
   - DOMAIN-SUFFIX,justmysocks.net,Proxy
   - DOMAIN-SUFFIX,justpaste.it,Proxy
@@ -186,6 +187,7 @@ payload:
   - DOMAIN-SUFFIX,nanyang.com,Proxy
   - DOMAIN-SUFFIX,naver.com,Proxy
   - DOMAIN-SUFFIX,neowin.net,Proxy
+  - DOMAIN-SUFFIX,nerwo.co,Proxy
   - DOMAIN-SUFFIX,newstapa.org,Proxy
   - DOMAIN-SUFFIX,nexitally.com,Proxy
   - DOMAIN-SUFFIX,nhk.or.jp,Proxy
@@ -252,6 +254,7 @@ payload:
   - DOMAIN-SUFFIX,slideshare.net,Proxy
   - DOMAIN-SUFFIX,softfamous.com,Proxy
   - DOMAIN-SUFFIX,ssrcloud.org,Proxy
+  - DOMAIN-SUFFIX,sis001.com,Proxy
   - DOMAIN-SUFFIX,startpage.com,Proxy
   - DOMAIN-SUFFIX,steamcommunity.com,Proxy
   - DOMAIN-SUFFIX,steemit.com,Proxy
@@ -278,6 +281,7 @@ payload:
   - DOMAIN-SUFFIX,urbandictionary.com,Proxy
   - DOMAIN-SUFFIX,ustream.tv,Proxy
   - DOMAIN-SUFFIX,uwants.com,Proxy
+  - DOMAIN-SUFFIX,v2ex.com,Proxy
   - DOMAIN-SUFFIX,v2ray.com,Proxy
   - DOMAIN-SUFFIX,viber.com,Proxy
   - DOMAIN-SUFFIX,videopress.com,Proxy
