@@ -104,6 +104,7 @@ payload:
   - DOMAIN-SUFFIX,elpais.com,Proxy
   - DOMAIN-SUFFIX,enanyang.my,Proxy
   - DOMAIN-SUFFIX,encyclopedia.com,Proxy
+  - DOMAIN-SUFFIX,elastic.co,Proxy
   - DOMAIN-SUFFIX,esoir.be,Proxy
   - DOMAIN-SUFFIX,etherscan.io,Proxy
   - DOMAIN-SUFFIX,euronews.com,Proxy
