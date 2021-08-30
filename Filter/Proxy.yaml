@@ -73,6 +73,7 @@ payload:
   - DOMAIN-SUFFIX,cna.com.tw,Proxy
   - DOMAIN-SUFFIX,comparitech.com,Proxy
   - DOMAIN-SUFFIX,conoha.jp,Proxy
+  - DOMAIN-SUFFIX,cloudcone.com,Proxy
   - DOMAIN-SUFFIX,crucial.com,Proxy
   - DOMAIN-SUFFIX,cts.com.tw,Proxy
   - DOMAIN-SUFFIX,cw.com.tw,Proxy
