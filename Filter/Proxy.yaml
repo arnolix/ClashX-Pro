@@ -211,6 +211,7 @@ payload:
   - DOMAIN-SUFFIX,on.cc,Proxy
   - DOMAIN-SUFFIX,orientaldaily.com.my,Proxy
   - DOMAIN-SUFFIX,overcast.fm,Proxy
+  - DOMAIN-SUFFIX,opennebula.io,Proxy
   - DOMAIN-SUFFIX,paltalk.com,Proxy
   - DOMAIN-SUFFIX,pao-pao.net,Proxy
   - DOMAIN-SUFFIX,parsevideo.com,Proxy
