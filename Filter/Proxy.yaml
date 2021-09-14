@@ -344,6 +344,7 @@ payload:
   - DOMAIN-SUFFIX,crackle.com,Proxy
   - DOMAIN-SUFFIX,depositphotos.cn,Proxy
   - DOMAIN-SUFFIX,dish.com,Proxy
+  - DOMAIN-SUFFIX,docker.com,Proxy
   - DOMAIN-SUFFIX,dmm.co.jp,Proxy
   - DOMAIN-SUFFIX,dmm.com,Proxy
   - DOMAIN-SUFFIX,dnvod.tv,Proxy
