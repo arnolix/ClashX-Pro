@@ -5,3 +5,4 @@ payload:
   - DOMAIN-KEYWORD,githubusercontent,GitHub
   - DOMAIN-SUFFIX,github.com,GitHub
   - DOMAIN-SUFFIX,githubassets.com,GitHub
+  - DOMAIN-SUFFIX,raw.githubusercontent.com,GitHub
